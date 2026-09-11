@@ -1,0 +1,38 @@
+import { Meta } from "@storybook/addon-docs/blocks";
+import { DocsTable } from "../components/DocsTable.tsx";
+
+<Meta title="Foundations/Architecture/Token pipeline" />
+
+# Token pipeline
+
+This milestone does not connect to a live Figma file. A person exports variables by hand into `figma/export.json`. The repo then runs:
+
+Figma file → manual variable export → `figma/export.json` → DTCG `tokens/` → generated CSS → Tailwind → Storybook.
+
+`figma/export.json` is an immutable snapshot. After conversion, `tokens/` is the source of truth for Style Dictionary. No Figma credentials are required to build. The color catalogue is generated from those token files during `pnpm tokens:build`.
+
+<DocsTable
+  caption="Token layers and CSS namespaces"
+  headers={["Layer", "Files", "CSS namespace"]}
+  rows={[
+    ["Primitive", "tokens/primitive/", "--primitive-color-*"],
+    ["Semantic", "tokens/semantic/", "--ds-color-*"],
+    ["Component", "tokens/component/", "--ds-button-*, --ds-alert-*"],
+    ["Dimension", "tokens/dimension/", "--ds-font-size-*, --ds-spacing-*, --ds-radius-*, --ds-border-width-*, --ds-opacity-*"],
+  ]}
+/>
+
+<p>Aliases are rewritten with <code>$collectionName</code>:</p>
+
+<ul>
+  <li><code>{"{blue.600}"}</code> + Primitives → <code>{"{color.blue.600}"}</code></li>
+  <li><code>{"{primary}"}</code> + Semantics → <code>{"{color.primary}"}</code></li>
+</ul>
+
+<p>
+  <code>$extensions.figma.value</code> stores the original Figma alias path without braces because Style Dictionary would otherwise treat <code>{"{blue.600}"}</code> inside extensions as a live reference. <code>wasAlias: true</code> records that it was an alias.
+</p>
+
+<p>
+  Component tokens are stored, including both Light and Dark files, but they are not implemented as React product components and they do not enter Tailwind <code>@theme</code>.
+</p>

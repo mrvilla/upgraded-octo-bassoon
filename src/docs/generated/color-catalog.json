@@ -1,0 +1,1101 @@
+{
+  "$comment": "Generated from tokens/. Do not edit.",
+  "primitives": [
+    {
+      "name": "zinc",
+      "swatches": [
+        {
+          "path": "color.zinc.50",
+          "cssVar": "--primitive-color-zinc-50",
+          "value": "#fafafa"
+        },
+        {
+          "path": "color.zinc.100",
+          "cssVar": "--primitive-color-zinc-100",
+          "value": "#f4f4f5"
+        },
+        {
+          "path": "color.zinc.200",
+          "cssVar": "--primitive-color-zinc-200",
+          "value": "#e4e4e7"
+        },
+        {
+          "path": "color.zinc.300",
+          "cssVar": "--primitive-color-zinc-300",
+          "value": "#d4d4d8"
+        },
+        {
+          "path": "color.zinc.400",
+          "cssVar": "--primitive-color-zinc-400",
+          "value": "#a1a1aa"
+        },
+        {
+          "path": "color.zinc.500",
+          "cssVar": "--primitive-color-zinc-500",
+          "value": "#71717a"
+        },
+        {
+          "path": "color.zinc.600",
+          "cssVar": "--primitive-color-zinc-600",
+          "value": "#52525b"
+        },
+        {
+          "path": "color.zinc.700",
+          "cssVar": "--primitive-color-zinc-700",
+          "value": "#3f3f46"
+        },
+        {
+          "path": "color.zinc.800",
+          "cssVar": "--primitive-color-zinc-800",
+          "value": "#27272a"
+        },
+        {
+          "path": "color.zinc.900",
+          "cssVar": "--primitive-color-zinc-900",
+          "value": "#18181b"
+        },
+        {
+          "path": "color.zinc.950",
+          "cssVar": "--primitive-color-zinc-950",
+          "value": "#09090b"
+        }
+      ]
+    },
+    {
+      "name": "gray",
+      "swatches": [
+        {
+          "path": "color.gray.50",
+          "cssVar": "--primitive-color-gray-50",
+          "value": "#f9fafb"
+        },
+        {
+          "path": "color.gray.100",
+          "cssVar": "--primitive-color-gray-100",
+          "value": "#f3f4f6"
+        },
+        {
+          "path": "color.gray.200",
+          "cssVar": "--primitive-color-gray-200",
+          "value": "#e5e7eb"
+        },
+        {
+          "path": "color.gray.300",
+          "cssVar": "--primitive-color-gray-300",
+          "value": "#d1d5db"
+        },
+        {
+          "path": "color.gray.400",
+          "cssVar": "--primitive-color-gray-400",
+          "value": "#9ca3af"
+        },
+        {
+          "path": "color.gray.500",
+          "cssVar": "--primitive-color-gray-500",
+          "value": "#6b7280"
+        },
+        {
+          "path": "color.gray.600",
+          "cssVar": "--primitive-color-gray-600",
+          "value": "#4b5563"
+        },
+        {
+          "path": "color.gray.700",
+          "cssVar": "--primitive-color-gray-700",
+          "value": "#374151"
+        },
+        {
+          "path": "color.gray.800",
+          "cssVar": "--primitive-color-gray-800",
+          "value": "#1f2937"
+        },
+        {
+          "path": "color.gray.900",
+          "cssVar": "--primitive-color-gray-900",
+          "value": "#111827"
+        },
+        {
+          "path": "color.gray.950",
+          "cssVar": "--primitive-color-gray-950",
+          "value": "#030712"
+        }
+      ]
+    },
+    {
+      "name": "blue",
+      "swatches": [
+        {
+          "path": "color.blue.50",
+          "cssVar": "--primitive-color-blue-50",
+          "value": "#eff6ff"
+        },
+        {
+          "path": "color.blue.100",
+          "cssVar": "--primitive-color-blue-100",
+          "value": "#dbeafe"
+        },
+        {
+          "path": "color.blue.200",
+          "cssVar": "--primitive-color-blue-200",
+          "value": "#bfdbfe"
+        },
+        {
+          "path": "color.blue.300",
+          "cssVar": "--primitive-color-blue-300",
+          "value": "#93c5fd"
+        },
+        {
+          "path": "color.blue.400",
+          "cssVar": "--primitive-color-blue-400",
+          "value": "#60a5fa"
+        },
+        {
+          "path": "color.blue.500",
+          "cssVar": "--primitive-color-blue-500",
+          "value": "#3b82f6"
+        },
+        {
+          "path": "color.blue.600",
+          "cssVar": "--primitive-color-blue-600",
+          "value": "#2563eb"
+        },
+        {
+          "path": "color.blue.700",
+          "cssVar": "--primitive-color-blue-700",
+          "value": "#1d4ed8"
+        },
+        {
+          "path": "color.blue.800",
+          "cssVar": "--primitive-color-blue-800",
+          "value": "#1e40af"
+        },
+        {
+          "path": "color.blue.900",
+          "cssVar": "--primitive-color-blue-900",
+          "value": "#1e3a8a"
+        },
+        {
+          "path": "color.blue.950",
+          "cssVar": "--primitive-color-blue-950",
+          "value": "#172554"
+        }
+      ]
+    },
+    {
+      "name": "red",
+      "swatches": [
+        {
+          "path": "color.red.50",
+          "cssVar": "--primitive-color-red-50",
+          "value": "#fef2f2"
+        },
+        {
+          "path": "color.red.100",
+          "cssVar": "--primitive-color-red-100",
+          "value": "#fee2e2"
+        },
+        {
+          "path": "color.red.200",
+          "cssVar": "--primitive-color-red-200",
+          "value": "#fecaca"
+        },
+        {
+          "path": "color.red.300",
+          "cssVar": "--primitive-color-red-300",
+          "value": "#fca5a5"
+        },
+        {
+          "path": "color.red.400",
+          "cssVar": "--primitive-color-red-400",
+          "value": "#f87171"
+        },
+        {
+          "path": "color.red.500",
+          "cssVar": "--primitive-color-red-500",
+          "value": "#ef4444"
+        },
+        {
+          "path": "color.red.600",
+          "cssVar": "--primitive-color-red-600",
+          "value": "#dc2626"
+        },
+        {
+          "path": "color.red.700",
+          "cssVar": "--primitive-color-red-700",
+          "value": "#b91c1c"
+        },
+        {
+          "path": "color.red.800",
+          "cssVar": "--primitive-color-red-800",
+          "value": "#991b1b"
+        },
+        {
+          "path": "color.red.900",
+          "cssVar": "--primitive-color-red-900",
+          "value": "#7f1d1d"
+        },
+        {
+          "path": "color.red.950",
+          "cssVar": "--primitive-color-red-950",
+          "value": "#450a0a"
+        }
+      ]
+    },
+    {
+      "name": "green",
+      "swatches": [
+        {
+          "path": "color.green.50",
+          "cssVar": "--primitive-color-green-50",
+          "value": "#f0fdf4"
+        },
+        {
+          "path": "color.green.100",
+          "cssVar": "--primitive-color-green-100",
+          "value": "#dcfce7"
+        },
+        {
+          "path": "color.green.200",
+          "cssVar": "--primitive-color-green-200",
+          "value": "#bbf7d0"
+        },
+        {
+          "path": "color.green.300",
+          "cssVar": "--primitive-color-green-300",
+          "value": "#86efac"
+        },
+        {
+          "path": "color.green.400",
+          "cssVar": "--primitive-color-green-400",
+          "value": "#4ade80"
+        },
+        {
+          "path": "color.green.500",
+          "cssVar": "--primitive-color-green-500",
+          "value": "#22c55e"
+        },
+        {
+          "path": "color.green.600",
+          "cssVar": "--primitive-color-green-600",
+          "value": "#16a34a"
+        },
+        {
+          "path": "color.green.700",
+          "cssVar": "--primitive-color-green-700",
+          "value": "#15803d"
+        },
+        {
+          "path": "color.green.800",
+          "cssVar": "--primitive-color-green-800",
+          "value": "#166534"
+        },
+        {
+          "path": "color.green.900",
+          "cssVar": "--primitive-color-green-900",
+          "value": "#14532d"
+        },
+        {
+          "path": "color.green.950",
+          "cssVar": "--primitive-color-green-950",
+          "value": "#052e16"
+        }
+      ]
+    },
+    {
+      "name": "emerald",
+      "swatches": [
+        {
+          "path": "color.emerald.50",
+          "cssVar": "--primitive-color-emerald-50",
+          "value": "#ecfdf5"
+        },
+        {
+          "path": "color.emerald.100",
+          "cssVar": "--primitive-color-emerald-100",
+          "value": "#d1fae5"
+        },
+        {
+          "path": "color.emerald.200",
+          "cssVar": "--primitive-color-emerald-200",
+          "value": "#a7f3d0"
+        },
+        {
+          "path": "color.emerald.300",
+          "cssVar": "--primitive-color-emerald-300",
+          "value": "#6ee7b7"
+        },
+        {
+          "path": "color.emerald.400",
+          "cssVar": "--primitive-color-emerald-400",
+          "value": "#34d399"
+        },
+        {
+          "path": "color.emerald.500",
+          "cssVar": "--primitive-color-emerald-500",
+          "value": "#10b981"
+        },
+        {
+          "path": "color.emerald.600",
+          "cssVar": "--primitive-color-emerald-600",
+          "value": "#059669"
+        },
+        {
+          "path": "color.emerald.700",
+          "cssVar": "--primitive-color-emerald-700",
+          "value": "#047857"
+        },
+        {
+          "path": "color.emerald.800",
+          "cssVar": "--primitive-color-emerald-800",
+          "value": "#065f46"
+        },
+        {
+          "path": "color.emerald.900",
+          "cssVar": "--primitive-color-emerald-900",
+          "value": "#064e3b"
+        },
+        {
+          "path": "color.emerald.950",
+          "cssVar": "--primitive-color-emerald-950",
+          "value": "#022c22"
+        }
+      ]
+    },
+    {
+      "name": "amber",
+      "swatches": [
+        {
+          "path": "color.amber.50",
+          "cssVar": "--primitive-color-amber-50",
+          "value": "#fffbeb"
+        },
+        {
+          "path": "color.amber.100",
+          "cssVar": "--primitive-color-amber-100",
+          "value": "#fef3c7"
+        },
+        {
+          "path": "color.amber.200",
+          "cssVar": "--primitive-color-amber-200",
+          "value": "#fde68a"
+        },
+        {
+          "path": "color.amber.300",
+          "cssVar": "--primitive-color-amber-300",
+          "value": "#fcd34d"
+        },
+        {
+          "path": "color.amber.400",
+          "cssVar": "--primitive-color-amber-400",
+          "value": "#fbbf24"
+        },
+        {
+          "path": "color.amber.500",
+          "cssVar": "--primitive-color-amber-500",
+          "value": "#f59e0b"
+        },
+        {
+          "path": "color.amber.600",
+          "cssVar": "--primitive-color-amber-600",
+          "value": "#d97706"
+        },
+        {
+          "path": "color.amber.700",
+          "cssVar": "--primitive-color-amber-700",
+          "value": "#b45309"
+        },
+        {
+          "path": "color.amber.800",
+          "cssVar": "--primitive-color-amber-800",
+          "value": "#92400e"
+        },
+        {
+          "path": "color.amber.900",
+          "cssVar": "--primitive-color-amber-900",
+          "value": "#78350f"
+        },
+        {
+          "path": "color.amber.950",
+          "cssVar": "--primitive-color-amber-950",
+          "value": "#451a03"
+        }
+      ]
+    },
+    {
+      "name": "orange",
+      "swatches": [
+        {
+          "path": "color.orange.50",
+          "cssVar": "--primitive-color-orange-50",
+          "value": "#fff7ed"
+        },
+        {
+          "path": "color.orange.100",
+          "cssVar": "--primitive-color-orange-100",
+          "value": "#ffedd5"
+        },
+        {
+          "path": "color.orange.200",
+          "cssVar": "--primitive-color-orange-200",
+          "value": "#fed7aa"
+        },
+        {
+          "path": "color.orange.300",
+          "cssVar": "--primitive-color-orange-300",
+          "value": "#fdba74"
+        },
+        {
+          "path": "color.orange.400",
+          "cssVar": "--primitive-color-orange-400",
+          "value": "#fb923c"
+        },
+        {
+          "path": "color.orange.500",
+          "cssVar": "--primitive-color-orange-500",
+          "value": "#f97316"
+        },
+        {
+          "path": "color.orange.600",
+          "cssVar": "--primitive-color-orange-600",
+          "value": "#ea580c"
+        },
+        {
+          "path": "color.orange.700",
+          "cssVar": "--primitive-color-orange-700",
+          "value": "#c2410c"
+        },
+        {
+          "path": "color.orange.800",
+          "cssVar": "--primitive-color-orange-800",
+          "value": "#9a3412"
+        },
+        {
+          "path": "color.orange.900",
+          "cssVar": "--primitive-color-orange-900",
+          "value": "#7c2d12"
+        },
+        {
+          "path": "color.orange.950",
+          "cssVar": "--primitive-color-orange-950",
+          "value": "#431407"
+        }
+      ]
+    },
+    {
+      "name": "sky",
+      "swatches": [
+        {
+          "path": "color.sky.50",
+          "cssVar": "--primitive-color-sky-50",
+          "value": "#f0f9ff"
+        },
+        {
+          "path": "color.sky.100",
+          "cssVar": "--primitive-color-sky-100",
+          "value": "#e0f2fe"
+        },
+        {
+          "path": "color.sky.200",
+          "cssVar": "--primitive-color-sky-200",
+          "value": "#bae6fd"
+        },
+        {
+          "path": "color.sky.300",
+          "cssVar": "--primitive-color-sky-300",
+          "value": "#7dd3fc"
+        },
+        {
+          "path": "color.sky.400",
+          "cssVar": "--primitive-color-sky-400",
+          "value": "#38bdf8"
+        },
+        {
+          "path": "color.sky.500",
+          "cssVar": "--primitive-color-sky-500",
+          "value": "#0ea5e9"
+        },
+        {
+          "path": "color.sky.600",
+          "cssVar": "--primitive-color-sky-600",
+          "value": "#0284c7"
+        },
+        {
+          "path": "color.sky.700",
+          "cssVar": "--primitive-color-sky-700",
+          "value": "#0369a1"
+        },
+        {
+          "path": "color.sky.800",
+          "cssVar": "--primitive-color-sky-800",
+          "value": "#075985"
+        },
+        {
+          "path": "color.sky.900",
+          "cssVar": "--primitive-color-sky-900",
+          "value": "#0c4a6e"
+        },
+        {
+          "path": "color.sky.950",
+          "cssVar": "--primitive-color-sky-950",
+          "value": "#082f49"
+        }
+      ]
+    },
+    {
+      "name": "black",
+      "swatches": [
+        {
+          "path": "color.black",
+          "cssVar": "--primitive-color-black",
+          "value": "#000000"
+        }
+      ]
+    },
+    {
+      "name": "white",
+      "swatches": [
+        {
+          "path": "color.white",
+          "cssVar": "--primitive-color-white",
+          "value": "#ffffff"
+        }
+      ]
+    }
+  ],
+  "semantic": {
+    "pairs": [
+      {
+        "background": {
+          "name": "background",
+          "cssVar": "--ds-color-background",
+          "lightAlias": "color.white",
+          "darkAlias": "color.gray.950",
+          "lightValue": "#ffffff",
+          "darkValue": "#030712"
+        },
+        "foreground": {
+          "name": "foreground",
+          "cssVar": "--ds-color-foreground",
+          "lightAlias": "color.gray.950",
+          "darkAlias": "color.gray.50",
+          "lightValue": "#030712",
+          "darkValue": "#f9fafb"
+        }
+      },
+      {
+        "background": {
+          "name": "card",
+          "cssVar": "--ds-color-card",
+          "lightAlias": "color.white",
+          "darkAlias": "color.gray.950",
+          "lightValue": "#ffffff",
+          "darkValue": "#030712"
+        },
+        "foreground": {
+          "name": "card-foreground",
+          "cssVar": "--ds-color-card-foreground",
+          "lightAlias": "color.gray.950",
+          "darkAlias": "color.gray.50",
+          "lightValue": "#030712",
+          "darkValue": "#f9fafb"
+        }
+      },
+      {
+        "background": {
+          "name": "popover",
+          "cssVar": "--ds-color-popover",
+          "lightAlias": "color.white",
+          "darkAlias": "color.gray.950",
+          "lightValue": "#ffffff",
+          "darkValue": "#030712"
+        },
+        "foreground": {
+          "name": "popover-foreground",
+          "cssVar": "--ds-color-popover-foreground",
+          "lightAlias": "color.gray.950",
+          "darkAlias": "color.gray.50",
+          "lightValue": "#030712",
+          "darkValue": "#f9fafb"
+        }
+      },
+      {
+        "background": {
+          "name": "primary",
+          "cssVar": "--ds-color-primary",
+          "lightAlias": "color.blue.600",
+          "darkAlias": "color.blue.400",
+          "lightValue": "#2563eb",
+          "darkValue": "#60a5fa"
+        },
+        "foreground": {
+          "name": "primary-foreground",
+          "cssVar": "--ds-color-primary-foreground",
+          "lightAlias": "color.blue.50",
+          "darkAlias": "color.blue.950",
+          "lightValue": "#eff6ff",
+          "darkValue": "#172554"
+        }
+      },
+      {
+        "background": {
+          "name": "secondary",
+          "cssVar": "--ds-color-secondary",
+          "lightAlias": "color.gray.100",
+          "darkAlias": "color.gray.800",
+          "lightValue": "#f3f4f6",
+          "darkValue": "#1f2937"
+        },
+        "foreground": {
+          "name": "secondary-foreground",
+          "cssVar": "--ds-color-secondary-foreground",
+          "lightAlias": "color.gray.900",
+          "darkAlias": "color.gray.50",
+          "lightValue": "#111827",
+          "darkValue": "#f9fafb"
+        }
+      },
+      {
+        "background": {
+          "name": "muted",
+          "cssVar": "--ds-color-muted",
+          "lightAlias": "color.gray.100",
+          "darkAlias": "color.gray.800",
+          "lightValue": "#f3f4f6",
+          "darkValue": "#1f2937"
+        },
+        "foreground": {
+          "name": "muted-foreground",
+          "cssVar": "--ds-color-muted-foreground",
+          "lightAlias": "color.gray.500",
+          "darkAlias": "color.gray.400",
+          "lightValue": "#6b7280",
+          "darkValue": "#9ca3af"
+        }
+      },
+      {
+        "background": {
+          "name": "accent",
+          "cssVar": "--ds-color-accent",
+          "lightAlias": "color.gray.100",
+          "darkAlias": "color.gray.800",
+          "lightValue": "#f3f4f6",
+          "darkValue": "#1f2937"
+        },
+        "foreground": {
+          "name": "accent-foreground",
+          "cssVar": "--ds-color-accent-foreground",
+          "lightAlias": "color.gray.900",
+          "darkAlias": "color.gray.50",
+          "lightValue": "#111827",
+          "darkValue": "#f9fafb"
+        }
+      },
+      {
+        "background": {
+          "name": "destructive",
+          "cssVar": "--ds-color-destructive",
+          "lightAlias": "color.red.600",
+          "darkAlias": "color.red.900",
+          "lightValue": "#dc2626",
+          "darkValue": "#7f1d1d"
+        },
+        "foreground": {
+          "name": "destructive-foreground",
+          "cssVar": "--ds-color-destructive-foreground",
+          "lightAlias": "color.gray.50",
+          "darkAlias": "color.gray.50",
+          "lightValue": "#f9fafb",
+          "darkValue": "#f9fafb"
+        }
+      },
+      {
+        "background": {
+          "name": "success",
+          "cssVar": "--ds-color-success",
+          "lightAlias": "color.emerald.500",
+          "darkAlias": "color.emerald.400",
+          "lightValue": "#10b981",
+          "darkValue": "#34d399"
+        },
+        "foreground": {
+          "name": "success-foreground",
+          "cssVar": "--ds-color-success-foreground",
+          "lightAlias": "color.emerald.50",
+          "darkAlias": "color.emerald.950",
+          "lightValue": "#ecfdf5",
+          "darkValue": "#022c22"
+        }
+      },
+      {
+        "background": {
+          "name": "warning",
+          "cssVar": "--ds-color-warning",
+          "lightAlias": "color.amber.500",
+          "darkAlias": "color.amber.300",
+          "lightValue": "#f59e0b",
+          "darkValue": "#fcd34d"
+        },
+        "foreground": {
+          "name": "warning-foreground",
+          "cssVar": "--ds-color-warning-foreground",
+          "lightAlias": "color.amber.950",
+          "darkAlias": "color.amber.950",
+          "lightValue": "#451a03",
+          "darkValue": "#451a03"
+        }
+      },
+      {
+        "background": {
+          "name": "info",
+          "cssVar": "--ds-color-info",
+          "lightAlias": "color.sky.700",
+          "darkAlias": "color.sky.400",
+          "lightValue": "#0369a1",
+          "darkValue": "#38bdf8"
+        },
+        "foreground": {
+          "name": "info-foreground",
+          "cssVar": "--ds-color-info-foreground",
+          "lightAlias": "color.gray.50",
+          "darkAlias": "color.sky.950",
+          "lightValue": "#f9fafb",
+          "darkValue": "#082f49"
+        }
+      }
+    ],
+    "chrome": [
+      {
+        "name": "border",
+        "cssVar": "--ds-color-border",
+        "lightAlias": "color.gray.200",
+        "darkAlias": "color.gray.800",
+        "lightValue": "#e5e7eb",
+        "darkValue": "#1f2937"
+      },
+      {
+        "name": "input",
+        "cssVar": "--ds-color-input",
+        "lightAlias": "color.gray.200",
+        "darkAlias": "color.gray.800",
+        "lightValue": "#e5e7eb",
+        "darkValue": "#1f2937"
+      },
+      {
+        "name": "ring",
+        "cssVar": "--ds-color-ring",
+        "lightAlias": "color.blue.500",
+        "darkAlias": "color.blue.300",
+        "lightValue": "#3b82f6",
+        "darkValue": "#93c5fd"
+      }
+    ],
+    "hover": [
+      {
+        "name": "primary-hover",
+        "cssVar": "--ds-color-primary-hover",
+        "lightAlias": "color.blue.700",
+        "darkAlias": "color.blue.200",
+        "lightValue": "#1d4ed8",
+        "darkValue": "#bfdbfe"
+      },
+      {
+        "name": "destructive-hover",
+        "cssVar": "--ds-color-destructive-hover",
+        "lightAlias": "color.red.600",
+        "darkAlias": "color.red.800",
+        "lightValue": "#dc2626",
+        "darkValue": "#991b1b"
+      },
+      {
+        "name": "secondary-hover",
+        "cssVar": "--ds-color-secondary-hover",
+        "lightAlias": "color.gray.200",
+        "darkAlias": "color.gray.700",
+        "lightValue": "#e5e7eb",
+        "darkValue": "#374151"
+      }
+    ],
+    "disabled": [
+      {
+        "name": "disabled",
+        "cssVar": "--ds-color-disabled",
+        "lightAlias": "color.gray.200",
+        "darkAlias": "color.gray.700",
+        "lightValue": "#e5e7eb",
+        "darkValue": "#374151"
+      },
+      {
+        "name": "disabled-foreground",
+        "cssVar": "--ds-color-disabled-foreground",
+        "lightAlias": "color.gray.400",
+        "darkAlias": "color.gray.500",
+        "lightValue": "#9ca3af",
+        "darkValue": "#6b7280"
+      }
+    ],
+    "chart": [
+      {
+        "name": "chart-1",
+        "cssVar": "--ds-color-chart-1",
+        "lightAlias": "color.blue.500",
+        "darkAlias": "color.blue.400",
+        "lightValue": "#3b82f6",
+        "darkValue": "#60a5fa"
+      },
+      {
+        "name": "chart-2",
+        "cssVar": "--ds-color-chart-2",
+        "lightAlias": "color.emerald.500",
+        "darkAlias": "color.emerald.400",
+        "lightValue": "#10b981",
+        "darkValue": "#34d399"
+      },
+      {
+        "name": "chart-3",
+        "cssVar": "--ds-color-chart-3",
+        "lightAlias": "color.sky.500",
+        "darkAlias": "color.sky.400",
+        "lightValue": "#0ea5e9",
+        "darkValue": "#38bdf8"
+      },
+      {
+        "name": "chart-4",
+        "cssVar": "--ds-color-chart-4",
+        "lightAlias": "color.amber.500",
+        "darkAlias": "color.amber.400",
+        "lightValue": "#f59e0b",
+        "darkValue": "#fbbf24"
+      },
+      {
+        "name": "chart-5",
+        "cssVar": "--ds-color-chart-5",
+        "lightAlias": "color.red.500",
+        "darkAlias": "color.red.400",
+        "lightValue": "#ef4444",
+        "darkValue": "#f87171"
+      }
+    ]
+  },
+  "components": {
+    "button": [
+      {
+        "path": "button.default.background",
+        "cssVar": "--ds-button-default-background",
+        "semanticRef": "color.primary",
+        "rawValue": null,
+        "lightValue": "#2563eb",
+        "darkValue": "#60a5fa"
+      },
+      {
+        "path": "button.default.foreground",
+        "cssVar": "--ds-button-default-foreground",
+        "semanticRef": "color.primary-foreground",
+        "rawValue": null,
+        "lightValue": "#eff6ff",
+        "darkValue": "#172554"
+      },
+      {
+        "path": "button.default.hover-background",
+        "cssVar": "--ds-button-default-hover-background",
+        "semanticRef": "color.primary-hover",
+        "rawValue": null,
+        "lightValue": "#1d4ed8",
+        "darkValue": "#bfdbfe"
+      },
+      {
+        "path": "button.destructive.background",
+        "cssVar": "--ds-button-destructive-background",
+        "semanticRef": "color.destructive",
+        "rawValue": null,
+        "lightValue": "#dc2626",
+        "darkValue": "#7f1d1d"
+      },
+      {
+        "path": "button.destructive.foreground",
+        "cssVar": "--ds-button-destructive-foreground",
+        "semanticRef": "color.destructive-foreground",
+        "rawValue": null,
+        "lightValue": "#f9fafb",
+        "darkValue": "#f9fafb"
+      },
+      {
+        "path": "button.destructive.hover-background",
+        "cssVar": "--ds-button-destructive-hover-background",
+        "semanticRef": "color.destructive-hover",
+        "rawValue": null,
+        "lightValue": "#dc2626",
+        "darkValue": "#991b1b"
+      },
+      {
+        "path": "button.outline.background",
+        "cssVar": "--ds-button-outline-background",
+        "semanticRef": "color.background",
+        "rawValue": null,
+        "lightValue": "#ffffff",
+        "darkValue": "#030712"
+      },
+      {
+        "path": "button.outline.foreground",
+        "cssVar": "--ds-button-outline-foreground",
+        "semanticRef": "color.foreground",
+        "rawValue": null,
+        "lightValue": "#030712",
+        "darkValue": "#f9fafb"
+      },
+      {
+        "path": "button.outline.border",
+        "cssVar": "--ds-button-outline-border",
+        "semanticRef": "color.border",
+        "rawValue": null,
+        "lightValue": "#e5e7eb",
+        "darkValue": "#1f2937"
+      },
+      {
+        "path": "button.outline.hover-background",
+        "cssVar": "--ds-button-outline-hover-background",
+        "semanticRef": "color.accent",
+        "rawValue": null,
+        "lightValue": "#f3f4f6",
+        "darkValue": "#1f2937"
+      },
+      {
+        "path": "button.outline.hover-foreground",
+        "cssVar": "--ds-button-outline-hover-foreground",
+        "semanticRef": "color.accent-foreground",
+        "rawValue": null,
+        "lightValue": "#111827",
+        "darkValue": "#f9fafb"
+      },
+      {
+        "path": "button.secondary.background",
+        "cssVar": "--ds-button-secondary-background",
+        "semanticRef": "color.secondary",
+        "rawValue": null,
+        "lightValue": "#f3f4f6",
+        "darkValue": "#1f2937"
+      },
+      {
+        "path": "button.secondary.foreground",
+        "cssVar": "--ds-button-secondary-foreground",
+        "semanticRef": "color.secondary-foreground",
+        "rawValue": null,
+        "lightValue": "#111827",
+        "darkValue": "#f9fafb"
+      },
+      {
+        "path": "button.secondary.hover-background",
+        "cssVar": "--ds-button-secondary-hover-background",
+        "semanticRef": "color.secondary-hover",
+        "rawValue": null,
+        "lightValue": "#e5e7eb",
+        "darkValue": "#374151"
+      },
+      {
+        "path": "button.ghost.background",
+        "cssVar": "--ds-button-ghost-background",
+        "semanticRef": null,
+        "rawValue": "rgba(0, 0, 0, 0)",
+        "lightValue": "rgba(0, 0, 0, 0)",
+        "darkValue": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "path": "button.ghost.foreground",
+        "cssVar": "--ds-button-ghost-foreground",
+        "semanticRef": "color.foreground",
+        "rawValue": null,
+        "lightValue": "#030712",
+        "darkValue": "#f9fafb"
+      },
+      {
+        "path": "button.ghost.hover-background",
+        "cssVar": "--ds-button-ghost-hover-background",
+        "semanticRef": "color.accent",
+        "rawValue": null,
+        "lightValue": "#f3f4f6",
+        "darkValue": "#1f2937"
+      },
+      {
+        "path": "button.ghost.hover-foreground",
+        "cssVar": "--ds-button-ghost-hover-foreground",
+        "semanticRef": "color.accent-foreground",
+        "rawValue": null,
+        "lightValue": "#111827",
+        "darkValue": "#f9fafb"
+      },
+      {
+        "path": "button.link.foreground",
+        "cssVar": "--ds-button-link-foreground",
+        "semanticRef": "color.primary",
+        "rawValue": null,
+        "lightValue": "#2563eb",
+        "darkValue": "#60a5fa"
+      },
+      {
+        "path": "button.link.hover-foreground",
+        "cssVar": "--ds-button-link-hover-foreground",
+        "semanticRef": "color.muted-foreground",
+        "rawValue": null,
+        "lightValue": "#6b7280",
+        "darkValue": "#9ca3af"
+      }
+    ],
+    "alert": [
+      {
+        "path": "alert.default.background",
+        "cssVar": "--ds-alert-default-background",
+        "semanticRef": "color.background",
+        "rawValue": null,
+        "lightValue": "#ffffff",
+        "darkValue": "#030712"
+      },
+      {
+        "path": "alert.default.foreground",
+        "cssVar": "--ds-alert-default-foreground",
+        "semanticRef": "color.foreground",
+        "rawValue": null,
+        "lightValue": "#030712",
+        "darkValue": "#f9fafb"
+      },
+      {
+        "path": "alert.default.border",
+        "cssVar": "--ds-alert-default-border",
+        "semanticRef": "color.border",
+        "rawValue": null,
+        "lightValue": "#e5e7eb",
+        "darkValue": "#1f2937"
+      },
+      {
+        "path": "alert.destructive.background",
+        "cssVar": "--ds-alert-destructive-background",
+        "semanticRef": "color.background",
+        "rawValue": null,
+        "lightValue": "#ffffff",
+        "darkValue": "#030712"
+      },
+      {
+        "path": "alert.destructive.border",
+        "cssVar": "--ds-alert-destructive-border",
+        "semanticRef": "color.destructive",
+        "rawValue": null,
+        "lightValue": "#dc2626",
+        "darkValue": "#7f1d1d"
+      },
+      {
+        "path": "alert.destructive.foreground",
+        "cssVar": "--ds-alert-destructive-foreground",
+        "semanticRef": "color.destructive",
+        "rawValue": null,
+        "lightValue": "#dc2626",
+        "darkValue": "#7f1d1d"
+      },
+      {
+        "path": "alert.destructive.icon",
+        "cssVar": "--ds-alert-destructive-icon",
+        "semanticRef": "color.destructive",
+        "rawValue": null,
+        "lightValue": "#dc2626",
+        "darkValue": "#7f1d1d"
+      }
+    ]
+  }
+}

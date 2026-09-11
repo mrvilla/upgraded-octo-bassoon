@@ -1,0 +1,25 @@
+import { Meta } from "@storybook/addon-docs/blocks";
+import { DocsTable } from "../components/DocsTable.tsx";
+
+<Meta title="Foundations/Dimensions/Overview" />
+
+# Dimensions
+
+Figma stores dimensions as unitless floats. Normalization writes structured DTCG values. Original Figma numbers, inferred px units, collection, mode, and scopes are preserved in `$extensions.figma`.
+
+<DocsTable
+  caption="Representative dimension conversion"
+  headers={["Token", "Figma number", "Stored DTCG value"]}
+  rows={[
+    ["font-size.sm", "14", "0.875rem"],
+    ["spacing.4", "16", "1rem"],
+    ["radius.md", "6", "0.375rem"],
+    ["radius.full", "9999", "9999px"],
+    ["border-width.base", "1", "1px"],
+    ["opacity.50", "~0.5", "unitless 0.5"],
+  ]}
+/>
+
+<p>
+  Rule: 16px = 1rem for font-size, spacing, and radius. <code>radius.full</code> and border-width stay in px. Opacity stays a unitless number from 0 to 1; CSS output rounds to two decimal places.
+</p>

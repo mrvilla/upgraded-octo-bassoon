@@ -1,0 +1,12 @@
+import { Meta } from "@storybook/addon-docs/blocks";
+import { SemanticCatalog } from "../components/SemanticCatalog.tsx";
+
+<Meta title="Foundations/Colors/Semantic colors" />
+
+# Semantic colors
+
+Semantic tokens come from `tokens/semantic/light.json` and `tokens/semantic/dark.json`. The colored surfaces use runtime variables such as `var(--ds-color-primary)`, so they follow Storybook’s `data-theme` toolbar.
+
+Paired roles show sample text using the matching foreground token.
+
+<SemanticCatalog />

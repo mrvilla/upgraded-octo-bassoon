@@ -127,6 +127,29 @@ export function validateTokens(): void {
   assertNoMatch(theme, /--color-primary:\s*var\(--color-primary\);/, "no self-referencing Tailwind color vars");
   assertNoMatch(theme, /--color-zinc-/, "primitive palettes must not enter @theme");
   assertNoMatch(theme, /--color-blue-50:/, "primitive palettes must not enter @theme");
+
+  const catalog = readJson("src/docs/generated/color-catalog.json") as {
+    primitives: Array<{ name: string; swatches: unknown[] }>;
+    semantic: {
+      pairs: unknown[];
+      chrome: unknown[];
+      hover: unknown[];
+      disabled: unknown[];
+      chart: unknown[];
+    };
+    components: { button: unknown[]; alert: unknown[] };
+  };
+  const primitiveCount = catalog.primitives.reduce((sum, palette) => sum + palette.swatches.length, 0);
+  assertEqual(primitiveCount, 101, "catalog primitive color count");
+  assertEqual(catalog.primitives.map((palette) => palette.name).join(","), "zinc,gray,blue,red,green,emerald,amber,orange,sky,black,white", "catalog palette order");
+  const semanticCount =
+    catalog.semantic.pairs.length * 2 +
+    catalog.semantic.chrome.length +
+    catalog.semantic.hover.length +
+    catalog.semantic.disabled.length +
+    catalog.semantic.chart.length;
+  assertEqual(semanticCount, 35, "catalog semantic color count");
+  assertEqual(catalog.components.button.length + catalog.components.alert.length, 27, "catalog component color count");
 }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {

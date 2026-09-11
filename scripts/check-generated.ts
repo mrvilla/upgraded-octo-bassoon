@@ -1,5 +1,5 @@
 import { createHash } from "node:crypto";
-import { readdirSync, readFileSync, statSync } from "node:fs";
+import { readdirSync, readFileSync, statSync, existsSync } from "node:fs";
 import { dirname, join, relative } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
 import { convertFigmaExport } from "./convert-figma-tokens.ts";
@@ -8,10 +8,20 @@ import { validateTokens } from "./validate-tokens.ts";
 import type { FigmaExport } from "./figma-token-types.ts";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
-const TRACKED_DIRS = ["tokens/primitive", "tokens/dimension", "tokens/semantic", "tokens/component", "src/styles/generated"];
+const TRACKED_DIRS = [
+  "tokens/primitive",
+  "tokens/dimension",
+  "tokens/semantic",
+  "tokens/component",
+  "src/styles/generated",
+  "src/docs/generated",
+];
 
 function listFiles(dir: string): string[] {
   const abs = join(ROOT, dir);
+  if (!existsSync(abs)) {
+    return [];
+  }
   const out: string[] = [];
   const walk = (current: string) => {
     for (const entry of readdirSync(current)) {

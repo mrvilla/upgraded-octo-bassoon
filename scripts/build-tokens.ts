@@ -1,6 +1,7 @@
 import { mkdirSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
+import { writeColorCatalog } from "./build-color-catalog.ts";
 import StyleDictionary from "style-dictionary";
 import { fileHeader, formattedVariables } from "style-dictionary/utils";
 import type { Config, FormatFn, TransformedToken } from "style-dictionary/types";
@@ -207,6 +208,8 @@ export async function buildTokens(): Promise<void> {
       },
     },
   });
+
+  writeColorCatalog();
 }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
