@@ -1,0 +1,529 @@
+{
+  "color": {
+    "background": {
+      "$type": "color",
+      "$value": "{color.white}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "white",
+          "wasAlias": true
+        }
+      }
+    },
+    "foreground": {
+      "$type": "color",
+      "$value": "{color.gray.950}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "gray.950",
+          "wasAlias": true
+        }
+      }
+    },
+    "card": {
+      "$type": "color",
+      "$value": "{color.white}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "white",
+          "wasAlias": true
+        }
+      }
+    },
+    "card-foreground": {
+      "$type": "color",
+      "$value": "{color.gray.950}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "gray.950",
+          "wasAlias": true
+        }
+      }
+    },
+    "popover": {
+      "$type": "color",
+      "$value": "{color.white}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "white",
+          "wasAlias": true
+        }
+      }
+    },
+    "popover-foreground": {
+      "$type": "color",
+      "$value": "{color.gray.950}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "gray.950",
+          "wasAlias": true
+        }
+      }
+    },
+    "primary": {
+      "$type": "color",
+      "$value": "{color.blue.600}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "blue.600",
+          "wasAlias": true
+        }
+      }
+    },
+    "primary-foreground": {
+      "$type": "color",
+      "$value": "{color.blue.50}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "blue.50",
+          "wasAlias": true
+        }
+      }
+    },
+    "secondary": {
+      "$type": "color",
+      "$value": "{color.gray.100}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "gray.100",
+          "wasAlias": true
+        }
+      }
+    },
+    "secondary-foreground": {
+      "$type": "color",
+      "$value": "{color.gray.900}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "gray.900",
+          "wasAlias": true
+        }
+      }
+    },
+    "muted": {
+      "$type": "color",
+      "$value": "{color.gray.100}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "gray.100",
+          "wasAlias": true
+        }
+      }
+    },
+    "muted-foreground": {
+      "$type": "color",
+      "$value": "{color.gray.500}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "gray.500",
+          "wasAlias": true
+        }
+      }
+    },
+    "accent": {
+      "$type": "color",
+      "$value": "{color.gray.100}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "gray.100",
+          "wasAlias": true
+        }
+      }
+    },
+    "accent-foreground": {
+      "$type": "color",
+      "$value": "{color.gray.900}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "gray.900",
+          "wasAlias": true
+        }
+      }
+    },
+    "destructive": {
+      "$type": "color",
+      "$value": "{color.red.600}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "red.600",
+          "wasAlias": true
+        }
+      }
+    },
+    "destructive-foreground": {
+      "$type": "color",
+      "$value": "{color.gray.50}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "gray.50",
+          "wasAlias": true
+        }
+      }
+    },
+    "success": {
+      "$type": "color",
+      "$value": "{color.emerald.500}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "emerald.500",
+          "wasAlias": true
+        }
+      }
+    },
+    "success-foreground": {
+      "$type": "color",
+      "$value": "{color.emerald.50}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "emerald.50",
+          "wasAlias": true
+        }
+      }
+    },
+    "warning": {
+      "$type": "color",
+      "$value": "{color.amber.500}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "amber.500",
+          "wasAlias": true
+        }
+      }
+    },
+    "warning-foreground": {
+      "$type": "color",
+      "$value": "{color.amber.950}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "amber.950",
+          "wasAlias": true
+        }
+      }
+    },
+    "info": {
+      "$type": "color",
+      "$value": "{color.sky.700}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "sky.700",
+          "wasAlias": true
+        }
+      }
+    },
+    "info-foreground": {
+      "$type": "color",
+      "$value": "{color.gray.50}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "gray.50",
+          "wasAlias": true
+        }
+      }
+    },
+    "border": {
+      "$type": "color",
+      "$value": "{color.gray.200}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "gray.200",
+          "wasAlias": true
+        }
+      }
+    },
+    "input": {
+      "$type": "color",
+      "$value": "{color.gray.200}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "gray.200",
+          "wasAlias": true
+        }
+      }
+    },
+    "ring": {
+      "$type": "color",
+      "$value": "{color.blue.500}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "blue.500",
+          "wasAlias": true
+        }
+      }
+    },
+    "primary-hover": {
+      "$type": "color",
+      "$value": "{color.blue.700}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "blue.700",
+          "wasAlias": true
+        }
+      }
+    },
+    "destructive-hover": {
+      "$type": "color",
+      "$value": "{color.red.600}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "red.600",
+          "wasAlias": true
+        }
+      }
+    },
+    "secondary-hover": {
+      "$type": "color",
+      "$value": "{color.gray.200}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "gray.200",
+          "wasAlias": true
+        }
+      }
+    },
+    "disabled": {
+      "$type": "color",
+      "$value": "{color.gray.200}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "gray.200",
+          "wasAlias": true
+        }
+      }
+    },
+    "disabled-foreground": {
+      "$type": "color",
+      "$value": "{color.gray.400}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "gray.400",
+          "wasAlias": true
+        }
+      }
+    },
+    "chart-1": {
+      "$type": "color",
+      "$value": "{color.blue.500}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "blue.500",
+          "wasAlias": true
+        }
+      }
+    },
+    "chart-2": {
+      "$type": "color",
+      "$value": "{color.emerald.500}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "emerald.500",
+          "wasAlias": true
+        }
+      }
+    },
+    "chart-3": {
+      "$type": "color",
+      "$value": "{color.sky.500}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "sky.500",
+          "wasAlias": true
+        }
+      }
+    },
+    "chart-4": {
+      "$type": "color",
+      "$value": "{color.amber.500}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "amber.500",
+          "wasAlias": true
+        }
+      }
+    },
+    "chart-5": {
+      "$type": "color",
+      "$value": "{color.red.500}",
+      "$extensions": {
+        "figma": {
+          "collection": "Semantics",
+          "mode": "Light",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "red.500",
+          "wasAlias": true
+        }
+      }
+    }
+  }
+}

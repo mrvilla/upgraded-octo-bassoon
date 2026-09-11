@@ -1,0 +1,167 @@
+{
+  "radius": {
+    "none": {
+      "$type": "dimension",
+      "$value": {
+        "value": 0,
+        "unit": "rem"
+      },
+      "$extensions": {
+        "figma": {
+          "collection": "Dimensions",
+          "mode": "Default",
+          "scopes": [
+            "CORNER_RADIUS"
+          ],
+          "value": 0,
+          "unit": "px"
+        }
+      }
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": {
+        "value": 0.125,
+        "unit": "rem"
+      },
+      "$extensions": {
+        "figma": {
+          "collection": "Dimensions",
+          "mode": "Default",
+          "scopes": [
+            "CORNER_RADIUS"
+          ],
+          "value": 2,
+          "unit": "px"
+        }
+      }
+    },
+    "base": {
+      "$type": "dimension",
+      "$value": {
+        "value": 0.25,
+        "unit": "rem"
+      },
+      "$extensions": {
+        "figma": {
+          "collection": "Dimensions",
+          "mode": "Default",
+          "scopes": [
+            "CORNER_RADIUS"
+          ],
+          "value": 4,
+          "unit": "px"
+        }
+      }
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": {
+        "value": 0.375,
+        "unit": "rem"
+      },
+      "$extensions": {
+        "figma": {
+          "collection": "Dimensions",
+          "mode": "Default",
+          "scopes": [
+            "CORNER_RADIUS"
+          ],
+          "value": 6,
+          "unit": "px"
+        }
+      },
+      "$description": "6px - exported as 0.375rem"
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": {
+        "value": 0.5,
+        "unit": "rem"
+      },
+      "$extensions": {
+        "figma": {
+          "collection": "Dimensions",
+          "mode": "Default",
+          "scopes": [
+            "CORNER_RADIUS"
+          ],
+          "value": 8,
+          "unit": "px"
+        }
+      }
+    },
+    "xl": {
+      "$type": "dimension",
+      "$value": {
+        "value": 0.75,
+        "unit": "rem"
+      },
+      "$extensions": {
+        "figma": {
+          "collection": "Dimensions",
+          "mode": "Default",
+          "scopes": [
+            "CORNER_RADIUS"
+          ],
+          "value": 12,
+          "unit": "px"
+        }
+      }
+    },
+    "2xl": {
+      "$type": "dimension",
+      "$value": {
+        "value": 1,
+        "unit": "rem"
+      },
+      "$extensions": {
+        "figma": {
+          "collection": "Dimensions",
+          "mode": "Default",
+          "scopes": [
+            "CORNER_RADIUS"
+          ],
+          "value": 16,
+          "unit": "px"
+        }
+      }
+    },
+    "3xl": {
+      "$type": "dimension",
+      "$value": {
+        "value": 1.5,
+        "unit": "rem"
+      },
+      "$extensions": {
+        "figma": {
+          "collection": "Dimensions",
+          "mode": "Default",
+          "scopes": [
+            "CORNER_RADIUS"
+          ],
+          "value": 24,
+          "unit": "px"
+        }
+      }
+    },
+    "full": {
+      "$type": "dimension",
+      "$value": {
+        "value": 9999,
+        "unit": "px"
+      },
+      "$extensions": {
+        "figma": {
+          "collection": "Dimensions",
+          "mode": "Default",
+          "scopes": [
+            "CORNER_RADIUS"
+          ],
+          "value": 9999,
+          "unit": "px"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "button": {
+    "default": {
+      "background": {
+        "$type": "color",
+        "$value": "{color.primary}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "primary",
+            "wasAlias": true
+          }
+        }
+      },
+      "foreground": {
+        "$type": "color",
+        "$value": "{color.primary-foreground}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "primary-foreground",
+            "wasAlias": true
+          }
+        }
+      },
+      "hover-background": {
+        "$type": "color",
+        "$value": "{color.primary-hover}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "primary-hover",
+            "wasAlias": true
+          }
+        }
+      }
+    },
+    "destructive": {
+      "background": {
+        "$type": "color",
+        "$value": "{color.destructive}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "destructive",
+            "wasAlias": true
+          }
+        }
+      },
+      "foreground": {
+        "$type": "color",
+        "$value": "{color.destructive-foreground}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "destructive-foreground",
+            "wasAlias": true
+          }
+        }
+      },
+      "hover-background": {
+        "$type": "color",
+        "$value": "{color.destructive-hover}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "destructive-hover",
+            "wasAlias": true
+          }
+        }
+      }
+    },
+    "outline": {
+      "background": {
+        "$type": "color",
+        "$value": "{color.background}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "background",
+            "wasAlias": true
+          }
+        }
+      },
+      "foreground": {
+        "$type": "color",
+        "$value": "{color.foreground}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "foreground",
+            "wasAlias": true
+          }
+        }
+      },
+      "border": {
+        "$type": "color",
+        "$value": "{color.border}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "border",
+            "wasAlias": true
+          }
+        }
+      },
+      "hover-background": {
+        "$type": "color",
+        "$value": "{color.accent}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "accent",
+            "wasAlias": true
+          }
+        }
+      },
+      "hover-foreground": {
+        "$type": "color",
+        "$value": "{color.accent-foreground}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "accent-foreground",
+            "wasAlias": true
+          }
+        }
+      }
+    },
+    "secondary": {
+      "background": {
+        "$type": "color",
+        "$value": "{color.secondary}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "secondary",
+            "wasAlias": true
+          }
+        }
+      },
+      "foreground": {
+        "$type": "color",
+        "$value": "{color.secondary-foreground}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "secondary-foreground",
+            "wasAlias": true
+          }
+        }
+      },
+      "hover-background": {
+        "$type": "color",
+        "$value": "{color.secondary-hover}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "secondary-hover",
+            "wasAlias": true
+          }
+        }
+      }
+    },
+    "ghost": {
+      "background": {
+        "$type": "color",
+        "$value": "rgba(0, 0, 0, 0)",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "rgba(0, 0, 0, 0)"
+          }
+        }
+      },
+      "foreground": {
+        "$type": "color",
+        "$value": "{color.foreground}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "foreground",
+            "wasAlias": true
+          }
+        }
+      },
+      "hover-background": {
+        "$type": "color",
+        "$value": "{color.accent}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "accent",
+            "wasAlias": true
+          }
+        }
+      },
+      "hover-foreground": {
+        "$type": "color",
+        "$value": "{color.accent-foreground}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "accent-foreground",
+            "wasAlias": true
+          }
+        }
+      }
+    },
+    "link": {
+      "foreground": {
+        "$type": "color",
+        "$value": "{color.primary}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "primary",
+            "wasAlias": true
+          }
+        }
+      },
+      "hover-foreground": {
+        "$type": "color",
+        "$value": "{color.muted-foreground}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "muted-foreground",
+            "wasAlias": true
+          }
+        }
+      }
+    }
+  },
+  "alert": {
+    "default": {
+      "background": {
+        "$type": "color",
+        "$value": "{color.background}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "background",
+            "wasAlias": true
+          }
+        }
+      },
+      "foreground": {
+        "$type": "color",
+        "$value": "{color.foreground}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "foreground",
+            "wasAlias": true
+          }
+        }
+      },
+      "border": {
+        "$type": "color",
+        "$value": "{color.border}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "border",
+            "wasAlias": true
+          }
+        }
+      }
+    },
+    "destructive": {
+      "background": {
+        "$type": "color",
+        "$value": "{color.background}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "background",
+            "wasAlias": true
+          }
+        }
+      },
+      "border": {
+        "$type": "color",
+        "$value": "{color.destructive}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "destructive",
+            "wasAlias": true
+          }
+        }
+      },
+      "foreground": {
+        "$type": "color",
+        "$value": "{color.destructive}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "destructive",
+            "wasAlias": true
+          }
+        }
+      },
+      "icon": {
+        "$type": "color",
+        "$value": "{color.destructive}",
+        "$extensions": {
+          "figma": {
+            "collection": "Components",
+            "mode": "Dark",
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "value": "destructive",
+            "wasAlias": true
+          }
+        }
+      }
+    }
+  }
+}

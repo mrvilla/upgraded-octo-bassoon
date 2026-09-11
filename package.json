@@ -1,0 +1,41 @@
+{
+  "name": "design-system-lab",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "tokens:convert": "tsx scripts/convert-figma-tokens.ts",
+    "tokens:build": "tsx scripts/build-tokens.ts",
+    "tokens:validate": "tsx scripts/validate-tokens.ts",
+    "tokens:check": "tsx scripts/check-generated.ts",
+    "typecheck": "tsc --noEmit -p tsconfig.app.json && tsc --noEmit -p tsconfig.node.json",
+    "dev": "pnpm tokens:build && vite",
+    "build": "pnpm tokens:build && tsc --noEmit -p tsconfig.app.json && tsc --noEmit -p tsconfig.node.json && vite build",
+    "preview": "vite preview",
+    "storybook": "pnpm tokens:build && storybook dev -p 6006",
+    "build-storybook": "pnpm tokens:build && storybook build"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@storybook/addon-docs": "^10.6.0",
+    "@storybook/addon-themes": "^10.6.0",
+    "@storybook/react-vite": "^10.6.0",
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/node": "^22.20.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.1",
+    "storybook": "^10.6.0",
+    "style-dictionary": "^5.5.3",
+    "tailwindcss": "^4.3.3",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2",
+    "vite": "^8.2.2"
+  }
+}

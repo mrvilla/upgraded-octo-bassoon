@@ -1,0 +1,1535 @@
+{
+  "color": {
+    "zinc": {
+      "50": {
+        "$type": "color",
+        "$value": "#fafafa",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#fafafa"
+          }
+        }
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#f4f4f5",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#f4f4f5"
+          }
+        }
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#e4e4e7",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#e4e4e7"
+          }
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#d4d4d8",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#d4d4d8"
+          }
+        }
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#a1a1aa",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#a1a1aa"
+          }
+        }
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#71717a",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#71717a"
+          }
+        }
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#52525b",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#52525b"
+          }
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#3f3f46",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#3f3f46"
+          }
+        }
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#27272a",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#27272a"
+          }
+        }
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#18181b",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#18181b"
+          }
+        }
+      },
+      "950": {
+        "$type": "color",
+        "$value": "#09090b",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#09090b"
+          }
+        }
+      }
+    },
+    "blue": {
+      "50": {
+        "$type": "color",
+        "$value": "#eff6ff",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#eff6ff"
+          }
+        }
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#dbeafe",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#dbeafe"
+          }
+        }
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#bfdbfe",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#bfdbfe"
+          }
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#93c5fd",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#93c5fd"
+          }
+        }
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#60a5fa",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#60a5fa"
+          }
+        }
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#3b82f6",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#3b82f6"
+          }
+        }
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#2563eb",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#2563eb"
+          }
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#1d4ed8",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#1d4ed8"
+          }
+        }
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#1e40af",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#1e40af"
+          }
+        }
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#1e3a8a",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#1e3a8a"
+          }
+        }
+      },
+      "950": {
+        "$type": "color",
+        "$value": "#172554",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#172554"
+          }
+        }
+      }
+    },
+    "red": {
+      "50": {
+        "$type": "color",
+        "$value": "#fef2f2",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#fef2f2"
+          }
+        }
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#fee2e2",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#fee2e2"
+          }
+        }
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#fecaca",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#fecaca"
+          }
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#fca5a5",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#fca5a5"
+          }
+        }
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#f87171",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#f87171"
+          }
+        }
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#ef4444",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#ef4444"
+          }
+        }
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#dc2626",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#dc2626"
+          }
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#b91c1c",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#b91c1c"
+          }
+        }
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#991b1b",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#991b1b"
+          }
+        }
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#7f1d1d",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#7f1d1d"
+          }
+        }
+      },
+      "950": {
+        "$type": "color",
+        "$value": "#450a0a",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#450a0a"
+          }
+        }
+      }
+    },
+    "green": {
+      "50": {
+        "$type": "color",
+        "$value": "#f0fdf4",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#f0fdf4"
+          }
+        }
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#dcfce7",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#dcfce7"
+          }
+        }
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#bbf7d0",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#bbf7d0"
+          }
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#86efac",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#86efac"
+          }
+        }
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#4ade80",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#4ade80"
+          }
+        }
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#22c55e",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#22c55e"
+          }
+        }
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#16a34a",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#16a34a"
+          }
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#15803d",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#15803d"
+          }
+        }
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#166534",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#166534"
+          }
+        }
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#14532d",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#14532d"
+          }
+        }
+      },
+      "950": {
+        "$type": "color",
+        "$value": "#052e16",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#052e16"
+          }
+        }
+      }
+    },
+    "amber": {
+      "50": {
+        "$type": "color",
+        "$value": "#fffbeb",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#fffbeb"
+          }
+        }
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#fef3c7",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#fef3c7"
+          }
+        }
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#fde68a",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#fde68a"
+          }
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#fcd34d",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#fcd34d"
+          }
+        }
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#fbbf24",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#fbbf24"
+          }
+        }
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#f59e0b",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#f59e0b"
+          }
+        }
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#d97706",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#d97706"
+          }
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#b45309",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#b45309"
+          }
+        }
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#92400e",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#92400e"
+          }
+        }
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#78350f",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#78350f"
+          }
+        }
+      },
+      "950": {
+        "$type": "color",
+        "$value": "#451a03",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#451a03"
+          }
+        }
+      }
+    },
+    "sky": {
+      "50": {
+        "$type": "color",
+        "$value": "#f0f9ff",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#f0f9ff"
+          }
+        }
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#e0f2fe",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#e0f2fe"
+          }
+        }
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#bae6fd",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#bae6fd"
+          }
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#7dd3fc",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#7dd3fc"
+          }
+        }
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#38bdf8",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#38bdf8"
+          }
+        }
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#0ea5e9",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#0ea5e9"
+          }
+        }
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#0284c7",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#0284c7"
+          }
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#0369a1",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#0369a1"
+          }
+        }
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#075985",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#075985"
+          }
+        }
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#0c4a6e",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#0c4a6e"
+          }
+        }
+      },
+      "950": {
+        "$type": "color",
+        "$value": "#082f49",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#082f49"
+          }
+        }
+      }
+    },
+    "orange": {
+      "50": {
+        "$type": "color",
+        "$value": "#fff7ed",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#fff7ed"
+          }
+        }
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#ffedd5",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#ffedd5"
+          }
+        }
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#fed7aa",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#fed7aa"
+          }
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#fdba74",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#fdba74"
+          }
+        }
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#fb923c",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#fb923c"
+          }
+        }
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#f97316",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#f97316"
+          }
+        }
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#ea580c",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#ea580c"
+          }
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#c2410c",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#c2410c"
+          }
+        }
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#9a3412",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#9a3412"
+          }
+        }
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#7c2d12",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#7c2d12"
+          }
+        }
+      },
+      "950": {
+        "$type": "color",
+        "$value": "#431407",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#431407"
+          }
+        }
+      }
+    },
+    "gray": {
+      "50": {
+        "$type": "color",
+        "$value": "#f9fafb",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#f9fafb"
+          }
+        }
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#f3f4f6",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#f3f4f6"
+          }
+        }
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#e5e7eb",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#e5e7eb"
+          }
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#d1d5db",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#d1d5db"
+          }
+        }
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#9ca3af",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#9ca3af"
+          }
+        }
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#6b7280",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#6b7280"
+          }
+        }
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#4b5563",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#4b5563"
+          }
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#374151",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#374151"
+          }
+        }
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#1f2937",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#1f2937"
+          }
+        }
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#111827",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#111827"
+          }
+        }
+      },
+      "950": {
+        "$type": "color",
+        "$value": "#030712",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#030712"
+          }
+        }
+      }
+    },
+    "emerald": {
+      "50": {
+        "$type": "color",
+        "$value": "#ecfdf5",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#ecfdf5"
+          }
+        }
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#d1fae5",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#d1fae5"
+          }
+        }
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#a7f3d0",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#a7f3d0"
+          }
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#6ee7b7",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#6ee7b7"
+          }
+        }
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#34d399",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#34d399"
+          }
+        }
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#10b981",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#10b981"
+          }
+        }
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#059669",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#059669"
+          }
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#047857",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#047857"
+          }
+        }
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#065f46",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#065f46"
+          }
+        }
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#064e3b",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#064e3b"
+          }
+        }
+      },
+      "950": {
+        "$type": "color",
+        "$value": "#022c22",
+        "$extensions": {
+          "figma": {
+            "collection": "Primitives",
+            "mode": "Default",
+            "scopes": [
+              "ALL_FILLS",
+              "STROKE_COLOR"
+            ],
+            "value": "#022c22"
+          }
+        }
+      }
+    },
+    "black": {
+      "$type": "color",
+      "$value": "#000000",
+      "$extensions": {
+        "figma": {
+          "collection": "Primitives",
+          "mode": "Default",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "#000000"
+        }
+      }
+    },
+    "white": {
+      "$type": "color",
+      "$value": "#ffffff",
+      "$extensions": {
+        "figma": {
+          "collection": "Primitives",
+          "mode": "Default",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "value": "#ffffff"
+        }
+      }
+    }
+  }
+}
